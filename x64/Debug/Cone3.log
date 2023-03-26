@@ -1,0 +1,25 @@
+﻿  Gulf.cpp
+C:\Users\Admin\source\repos\Cone3\Gulf.h(33,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Gulf.h(34,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  maincode.cpp
+C:\Users\Admin\source\repos\Cone3\Gulf.h(33,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Gulf.h(34,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(38,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(39,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Ocean.h(39,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Ocean.h(40,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\maincode.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Ocean.cpp
+C:\Users\Admin\source\repos\Cone3\Gulf.h(33,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Gulf.h(34,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(38,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(39,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Ocean.h(39,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Ocean.h(40,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Sea.cpp
+C:\Users\Admin\source\repos\Cone3\Gulf.h(33,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Gulf.h(34,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(38,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Cone3\Sea.h(39,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Cone3.vcxproj -> C:\Users\Admin\source\repos\Cone3\x64\Debug\Cone3.exe
